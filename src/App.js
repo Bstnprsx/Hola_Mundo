@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1 style={{ color: 'white', fontSize: '4em' }}>Holanda!</h1>
+        <h1 style={{ color: 'white', fontSize: '4em' }}>Hola po Perrito!!!!!</h1>
+        <h1 style={{ color: 'white', fontSize: '4em' }}>Hola po!!!!!</h1>
       </header>
     </div>
   );
